@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="title_activity_maps">Carte des Positions</string>
+    <string name="google_maps_key">YOUR_API_KEY_HERE</string>
+
+    <string name="status_enabled">Le fournisseur %s est activé</string>
+    <string name="status_disabled">Le fournisseur %s est désactivé</string>
+    <string name="status_changed">Statut de %1$s : %2$s</string>
+    <string name="location_update">Position : Lat=%1$s, Lon=%2$s, Alt=%3$s (Précision: %4$s m)</string>
+    <string name="permission_denied">L\'accès à la localisation est requis pour cette application.</string>
+    <string name="network_error">Erreur de connexion : %s</string>
+</resources>
